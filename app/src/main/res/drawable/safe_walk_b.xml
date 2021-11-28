@@ -1,0 +1,25 @@
+
+<!-- drawable/safe_walk_b.xml -->
+<vector
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="273dp"
+    android:height="94dp"
+    android:viewportWidth="273"
+    android:viewportHeight="94"
+    >
+
+    <group>
+        <clip-path
+            android:pathData="M10 0H263C268.523 0 273 4.47715 273 10V84C273 89.5228 268.523 94 263 94H10C4.47715 94 0 89.5228 0 84V10C0 4.47715 4.47715 0 10 0Z"
+            />
+        <path
+            android:pathData="M0 0V94H273V0"
+            android:fillColor="#EAAF9A"
+            />
+    </group>
+
+</vector>
+
+
+
