@@ -19,6 +19,21 @@
         tools:layout_editor_absoluteX="-16dp"
         tools:layout_editor_absoluteY="55dp" />
 
+    <ImageView
+        android:id="@+id/config"
+        android:layout_width="48dp"
+        android:layout_height="43dp"
+        android:layout_marginTop="44dp"
+        android:alpha="0.6"
+
+        android:scaleType="fitXY"
+        android:src="@drawable/settingicon"
+        app:layout_anchorGravity="center"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.817"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/imageView" />
+
     <Button
         android:id="@+id/safe_walk_b"
         android:layout_width="273dp"
